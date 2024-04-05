@@ -8,7 +8,7 @@
 
 . 📫 You can reach me via email hameedkareem404@gmail.com
 
-. ⚡ Fun fact: I love cooking and i enjoy spanish movies (still trying to learn spanish) 😃
+
 
 <!--
 **HameedKareem/HameedKareem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
